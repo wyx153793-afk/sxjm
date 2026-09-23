@@ -1,0 +1,11 @@
+{
+  "box_count": 80,
+  "service_count": 15,
+  "sortie_count": 18,
+  "total_energy_kwh": 59.24025780157648,
+  "total_operation_time_s": 32798.50003202202,
+  "model_sorties": {
+    "B": 9,
+    "C": 9
+  }
+}
